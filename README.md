@@ -62,6 +62,8 @@
 * WEBARCHIVE
 * ILOVEADAPTIVE
 * SEOREPORTS
+* ALAEVTOOLS
+* RDSBAR
 * и другие
 ## ПРОГРАММЫ
 Основные программы, которые использую в работе:
@@ -74,7 +76,7 @@
 * FIGMA
 * ADOBE PHOTOSHOP / ILLUSTRATOR / ANIMATE / AFTER EFFECTS / PREMIERE PRO / AUDITION
 * CINEMA 4D
-* * и другие
+* и другие
 <!--
 **astergumi/astergumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

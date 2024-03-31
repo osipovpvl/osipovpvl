@@ -5,10 +5,14 @@
 На текущий момент работаю в IT компании в роли SEO-специалиста Middle.
 
 ## МОИ СЕРТИФИКАТЫ:
-* [СЕРТИФИКАТЫ](https://github.com/astergumi/astergumi/tree/master/Certificates)
+<p>
+   <a href="https://github.com/astergumi/astergumi/tree/master/Certificates">
+      СЕРТИФИКАТЫ
+   </a>
+</p>
 
 ## МОИ СОЦИАЛЬНЫЕ СЕТИ:
-<p align='center'>
+<p>
    <a href="https://www.instagram.com/astergumi">
        <img width="70px" src="https://www.admissionnepal.com/v2/media/svg/brand-logos/instagram-2-1.svg"/>
    </a>

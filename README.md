@@ -1,5 +1,69 @@
 ### Hi there 👋
 
+Привет, меня зовут Павел, мне 22 года. Живу в Екатеринбурге.
+
+## Разработка
+Основные инструменты и фреймворки, которые применяю в работе:
+* HTML
+* CSS / LESS / SASS
+* GIT
+* JAVA SCRIPT
+* TYPE SCRIPT
+* PHP
+* LARAVEL
+* REACT
+* SQL
+* DEVOPS
+* DOCKER
+* и другие
+## Продвижение и оптимизация
+Основные инструменты и сервисы, которые использую в работе:
+* YANDEX WEBMASTER
+* YANDEX METRIKA
+* YANDEX WORDSTAT
+* YANDEX TURBOPAGE
+* YANDEX YML
+* INDEXING NOW
+* GOOGLE SEARCH CONSOLE
+* GOOGLE ANALYTICS
+* GOOGLE CLOUD CONSOLE (GOOGLE INDEXING API)
+* GOOGLE TRENDS
+* GOOGLE DISAVOW
+* TOPVISOR
+* ETXT.RU
+* TEXT.RU
+* TURGENEV.RU
+* MIRATEXT
+* AHREFS
+* SEMRUSH
+* CHECKTRUST
+* GOGETLINKS
+* SAPE
+* MIRALINKS
+* XTOOL
+* MARKUP SCHEMAORG / JSONLD
+* LABRIKA
+* BE1
+* MEGAINDEX
+* PIXELTOOLS
+* ARSENKINTOOLS
+* CHATGPT
+* MINDMEISTER
+* WEBARCHIVE
+* ILOVEADAPTIVE
+* и другие
+## Другие программы
+Программы, которые использую в работе:
+* VISUAL STUDIO / VISUAL STUDIO CODE
+* SCREAMING FROG SEO SPIDER
+* DASH
+* FILEZILLA
+* ANYDESK
+* MICROSOFT POWERPOINT / WORD / EXCEL
+* FIGMA
+* ADOBE PHOTOSHOP / ILLUSTRATOR / ANIMATE / AFTER EFFECTS / PREMIERE PRO / AUDITION
+* CINEMA 4D
+Мои социальные сети: [Instagram](https://www.instagram.com/astergumi)
 <!--
 **astergumi/astergumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

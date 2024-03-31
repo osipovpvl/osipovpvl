@@ -8,9 +8,13 @@
 * [СЕРТИФИКАТЫ](https://github.com/astergumi/astergumi/tree/master/Certificates)
 
 ## МОИ СОЦИАЛЬНЫЕ СЕТИ:
-* [INSTAGRAM](https://www.instagram.com/astergumi)
+<p align='center'>
+   <a href="https://www.instagram.com/astergumi">
+       <img width="70px" src="https://www.admissionnepal.com/v2/media/svg/brand-logos/instagram-2-1.svg"/>
+   </a>
+</p>
   
-## РАЗРАБОТКА 💻
+## 💻 РАЗРАБОТКА
 Основные инструменты и фреймворки, которые применяю в работе:
 * HTML
 * CSS / LESS / SASS
@@ -24,7 +28,7 @@
 * DEVOPS
 * DOCKER
 * и другие
-## ПРОДВИЖЕНИЕ И ОПТИМИЗАЦИЯЯ 📈
+## 📈 ПРОДВИЖЕНИЕ И ОПТИМИЗАЦИЯ
 Основные инструменты и сервисы, которые использую в работе:
 * YANDEX WEBMASTER
 * YANDEX METRIKA

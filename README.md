@@ -23,12 +23,14 @@
 * YANDEX WORDSTAT
 * YANDEX TURBOPAGE
 * YANDEX YML
+* YANDEX BUSINESS
 * INDEXING NOW
 * GOOGLE SEARCH CONSOLE
 * GOOGLE ANALYTICS
 * GOOGLE CLOUD CONSOLE (GOOGLE INDEXING API)
 * GOOGLE TRENDS
 * GOOGLE DISAVOW
+* GOOGLE BUSINESS
 * TOPVISOR
 * ETXT.RU
 * TEXT.RU
@@ -54,7 +56,7 @@
 * SEOREPORTS
 * и другие
 ## Программы 🔎
-Программы, которые использую в работе:
+Основные программы, которые использую в работе:
 * VISUAL STUDIO / VISUAL STUDIO CODE
 * SCREAMING FROG SEO SPIDER
 * DASH
@@ -64,6 +66,8 @@
 * FIGMA
 * ADOBE PHOTOSHOP / ILLUSTRATOR / ANIMATE / AFTER EFFECTS / PREMIERE PRO / AUDITION
 * CINEMA 4D
+* * и другие
+Мои сертификаты:
 
 Мои социальные сети:
 * [Instagram](https://www.instagram.com/astergumi)

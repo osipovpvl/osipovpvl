@@ -11,6 +11,18 @@
    </a>
 </p>
 
+### 💼 МОИ КЕЙСЫ:
+<p>
+   <a href="">
+      КЕЙСЫ ПО РАЗРАБОТКЕ
+   </a>
+</p>
+<p>
+   <a href="">
+      КЕЙСЫ ПО ПРОДВИЖЕНИЮ И ОПТИМИЗАЦИИ
+   </a>
+</p>
+
 ### 📱 МОИ СОЦИАЛЬНЫЕ СЕТИ:
 <p>
    <a href="https://www.instagram.com/astergumi">

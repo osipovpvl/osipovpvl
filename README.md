@@ -90,6 +90,7 @@
 ### ПРОГРАММЫ
 Основные программы, которые использую в работе:
 * VISUAL STUDIO CODE
+* XAMPP / OPEN SERVER
 * DASH
 * SCREAMING FROG SEO SPIDER
 * KEY COLLECTOR

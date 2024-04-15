@@ -26,24 +26,39 @@
 ### 📱 МОИ СОЦИАЛЬНЫЕ СЕТИ:
 <p>
    <a href="https://www.instagram.com/astergumi">
-       <img width="70px" src="https://www.admissionnepal.com/v2/media/svg/brand-logos/instagram-2-1.svg"/>
+      <img src="https://skillicons.dev/icons?i=instagram" />
    </a>
 </p>
   
 ### 💻 РАЗРАБОТКА
 Основные языки и фреймворки, которые применяю в работе:
-* HTML
-* CSS / LESS / SASS
-* GIT
-* JAVA SCRIPT
-* TYPE SCRIPT
-* PHP
-* LARAVEL
-* REACT
-* SQL
-* DEVOPS
-* DOCKER
-* и другие
+
+<img src="https://skillicons.dev/icons?i=html" /> HTML
+
+<img src="https://skillicons.dev/icons?i=css" /> CSS
+
+<img src="https://skillicons.dev/icons?i=less" /> LESS
+
+<img src="https://skillicons.dev/icons?i=sass" /> SASS
+
+<img src="https://skillicons.dev/icons?i=git" /> GIT
+
+<img src="https://skillicons.dev/icons?i=js" /> JAVA SCRIPT
+
+<img src="https://skillicons.dev/icons?i=typescript" /> TYPE SCRIPT
+
+<img src="https://skillicons.dev/icons?i=laravel" /> LARAVEL
+
+<img src="https://skillicons.dev/icons?i=react" /> REACT
+
+<img src="https://skillicons.dev/icons?i=php" /> PHP
+
+<img src="https://skillicons.dev/icons?i=mysql" /> SQL
+
+<img src="https://skillicons.dev/icons?i=docker" /> DOCKER
+
+* И ДРУГИЕ
+
 ### 📈 ПРОДВИЖЕНИЕ И ОПТИМИЗАЦИЯ
 Основные инструменты и сервисы, которые использую в работе:
 * YANDEX WEBMASTER
@@ -86,7 +101,7 @@
 * SEO REPORTS
 * ALAEV TOOLS
 * RDS BAR
-* и другие
+* И ДРУГИЕ
 ### ПРОГРАММЫ
 Основные программы, которые использую в работе:
 * VISUAL STUDIO CODE
@@ -100,7 +115,7 @@
 * FIGMA
 * ADOBE PHOTOSHOP / ILLUSTRATOR / ANIMATE / AFTER EFFECTS / PREMIERE PRO / AUDITION
 * CINEMA 4D
-* и другие
+* И ДРУГИЕ
 <!--
 **astergumi/astergumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

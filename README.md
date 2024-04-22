@@ -117,7 +117,7 @@
 * ALAEV TOOLS
 * RDS BAR
 * И ДРУГИЕ
-### ПРОГРАММЫ
+### 🖱 ПРОГРАММЫ
 ОСНОВНЫЕ ПРОГРАММЫ, КОТОРЫЕ ИСПОЛЬЗУЮ В РАБОТЕ:
 * VISUAL STUDIO CODE
 * XAMPP / OPEN SERVER

@@ -7,7 +7,7 @@
 
 ### 📑 МОИ СЕРТИФИКАТЫ
 <p>
-   <a href="https://github.com/astergumi/astergumi/tree/master/Certificates">
+   <a href="https://github.com/osipovtwelve/osipovtwelve/tree/master/Certificates">
       СЕРТИФИКАТЫ
    </a>
 </p>
@@ -26,7 +26,7 @@
 
 ### 📱 МОИ СОЦИАЛЬНЫЕ СЕТИ
 <p>
-   <a href="https://www.instagram.com/astergumi">
+   <a href="https://www.instagram.com/osipovtwelve">
       <img src="https://skillicons.dev/icons?i=instagram" />
    </a>
 </p>
@@ -34,29 +34,29 @@
 ### 💻 РАЗРАБОТКА
 ОСНОВНЫЕ ЯЗЫКИ И ФРЕЙМВОРКИ, КОТОРЫЕ ПРИМЕНЯЮ В РАЗРАБОТКЕ:
 
-<img src="https://skillicons.dev/icons?i=html" /> HTML
+<img style="vertical-align:middle" src="https://skillicons.dev/icons?i=html" /> HTML
 
-<img src="https://skillicons.dev/icons?i=css" /> CSS
+<img style="vertical-align:middle" src="https://skillicons.dev/icons?i=css" /> CSS
 
-<img src="https://skillicons.dev/icons?i=less" /> LESS
+<img style="vertical-align:middle" src="https://skillicons.dev/icons?i=less" /> LESS
 
-<img src="https://skillicons.dev/icons?i=sass" /> SASS
+<img style="vertical-align:middle" src="https://skillicons.dev/icons?i=sass" /> SASS
 
-<img src="https://skillicons.dev/icons?i=git" /> GIT
+<img style="vertical-align:middle" src="https://skillicons.dev/icons?i=git" /> GIT
 
-<img src="https://skillicons.dev/icons?i=js" /> JAVA SCRIPT
+<img style="vertical-align:middle" src="https://skillicons.dev/icons?i=js" /> JAVA SCRIPT
 
-<img src="https://skillicons.dev/icons?i=typescript" /> TYPE SCRIPT
+<img style="vertical-align:middle" src="https://skillicons.dev/icons?i=typescript" /> TYPE SCRIPT
 
-<img src="https://skillicons.dev/icons?i=laravel" /> LARAVEL
+<img style="vertical-align:middle" src="https://skillicons.dev/icons?i=laravel" /> LARAVEL
 
-<img src="https://skillicons.dev/icons?i=react" /> REACT
+<img style="vertical-align:middle" src="https://skillicons.dev/icons?i=react" /> REACT
 
-<img src="https://skillicons.dev/icons?i=php" /> PHP
+<img style="vertical-align:middle" src="https://skillicons.dev/icons?i=php" /> PHP
 
-<img src="https://skillicons.dev/icons?i=mysql" /> SQL
+<img style="vertical-align:middle" src="https://skillicons.dev/icons?i=mysql" /> SQL
 
-<img src="https://skillicons.dev/icons?i=docker" /> DOCKER
+<img style="vertical-align:middle" src="https://skillicons.dev/icons?i=docker" /> DOCKER
 
 * И ДРУГИЕ
 

@@ -34,29 +34,29 @@
 ### 💻 РАЗРАБОТКА
 ОСНОВНЫЕ ЯЗЫКИ И ФРЕЙМВОРКИ, КОТОРЫЕ ПРИМЕНЯЮ В РАЗРАБОТКЕ:
 
-<img style="vertical-align:middle" src="https://skillicons.dev/icons?i=html" /> HTML
+<img align="middle" src="https://skillicons.dev/icons?i=html" /> HTML
 
-<img style="vertical-align:middle" src="https://skillicons.dev/icons?i=css" /> CSS
+<img align="middle" src="https://skillicons.dev/icons?i=css" /> CSS
 
-<img style="vertical-align:middle" src="https://skillicons.dev/icons?i=less" /> LESS
+<img align="middle" src="https://skillicons.dev/icons?i=less" /> LESS
 
-<img style="vertical-align:middle" src="https://skillicons.dev/icons?i=sass" /> SASS
+<img align="middle" src="https://skillicons.dev/icons?i=sass" /> SASS
 
-<img style="vertical-align:middle" src="https://skillicons.dev/icons?i=git" /> GIT
+<img align="middle" src="https://skillicons.dev/icons?i=git" /> GIT
 
-<img style="vertical-align:middle" src="https://skillicons.dev/icons?i=js" /> JAVA SCRIPT
+<img align="middle" src="https://skillicons.dev/icons?i=js" /> JAVA SCRIPT
 
-<img style="vertical-align:middle" src="https://skillicons.dev/icons?i=typescript" /> TYPE SCRIPT
+<img align="middle" src="https://skillicons.dev/icons?i=typescript" /> TYPE SCRIPT
 
-<img style="vertical-align:middle" src="https://skillicons.dev/icons?i=laravel" /> LARAVEL
+<img align="middle" src="https://skillicons.dev/icons?i=laravel" /> LARAVEL
 
-<img style="vertical-align:middle" src="https://skillicons.dev/icons?i=react" /> REACT
+<img align="middle" src="https://skillicons.dev/icons?i=react" /> REACT
 
-<img style="vertical-align:middle" src="https://skillicons.dev/icons?i=php" /> PHP
+<img align="middle" src="https://skillicons.dev/icons?i=php" /> PHP
 
-<img style="vertical-align:middle" src="https://skillicons.dev/icons?i=mysql" /> SQL
+<img align="middle" src="https://skillicons.dev/icons?i=mysql" /> SQL
 
-<img style="vertical-align:middle" src="https://skillicons.dev/icons?i=docker" /> DOCKER
+<img align="middle" src="https://skillicons.dev/icons?i=docker" /> DOCKER
 
 * И ДРУГИЕ
 

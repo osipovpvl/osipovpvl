@@ -1,9 +1,7 @@
 Павел, 22 года.
-г. Екатеринбург, Россия.
+Россия, Екатеринбург.
 
 Образование «Разработчик WEB и мультимедийных приложений».
-
-На текущий момент работаю в IT-компании в роли Middle SEO-специалиста.
 
 ### 📑 МОИ СЕРТИФИКАТЫ
 <p>
@@ -42,21 +40,21 @@
 
 <img align="middle" src="https://skillicons.dev/icons?i=sass" /> SASS
 
+<img align="middle" src="https://skillicons.dev/icons?i=jquery" /> JQUERY
+
 <img align="middle" src="https://skillicons.dev/icons?i=git" /> GIT
 
 <img align="middle" src="https://skillicons.dev/icons?i=js" /> JAVA SCRIPT
 
 <img align="middle" src="https://skillicons.dev/icons?i=typescript" /> TYPE SCRIPT
 
-<img align="middle" src="https://skillicons.dev/icons?i=laravel" /> LARAVEL
-
 <img align="middle" src="https://skillicons.dev/icons?i=react" /> REACT
+
+<img align="middle" src="https://skillicons.dev/icons?i=laravel" /> LARAVEL
 
 <img align="middle" src="https://skillicons.dev/icons?i=php" /> PHP
 
 <img align="middle" src="https://skillicons.dev/icons?i=mysql" /> SQL
-
-<img align="middle" src="https://skillicons.dev/icons?i=docker" /> DOCKER
 
 * И ДРУГИЕ
 

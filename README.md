@@ -55,7 +55,6 @@
 
 * И ДРУГИЕ
 
-### 📈 ПРОДВИЖЕНИЕ И ОПТИМИЗАЦИЯ
 ОСНОВНЫЕ CMS И WYSI/WYG В КОТОРЫХ РАБОТАЛ:
 * 1C-BITRIX
 * WORD PRESS
@@ -70,6 +69,7 @@
 * TIME WEB
 * И ДРУГИЕ
 
+### 📈 ПРОДВИЖЕНИЕ И ОПТИМИЗАЦИЯ
 ОСНОВНЫЕ ИНСТРУМЕНТЫ И СЕРВИСЫ, КОТОРЫЕ ИСПОЛЬЗУЮ В ПРОДВИЖЕНИИ И ОПТИМИЗАЦИИ:
 * YANDEX WEBMASTER
 * YANDEX METRIKA

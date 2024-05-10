@@ -1,4 +1,4 @@
-Образование «Разработчик WEB и мультимедийных приложений».
+ОБРАЗОВАНИЕ «РАЗРАБОТЧИК WEB И МУЛЬТИМЕДИЙНЫХ ПРИЛОЖЕНИЙ».
 
 ### 📑 МОИ СЕРТИФИКАТЫ
 <p>
@@ -52,7 +52,6 @@
 <img align="middle" src="https://skillicons.dev/icons?i=php" /> PHP
 
 <img align="middle" src="https://skillicons.dev/icons?i=mysql" /> SQL
-
 * И ДРУГИЕ
 
 ОСНОВНЫЕ CMS И WYSI/WYG В КОТОРЫХ РАБОТАЛ:

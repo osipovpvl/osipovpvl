@@ -72,6 +72,7 @@
 ОСНОВНЫЕ ИНСТРУМЕНТЫ И СЕРВИСЫ, КОТОРЫЕ ИСПОЛЬЗУЮ В ПРОДВИЖЕНИИ И ОПТИМИЗАЦИИ:
 * YANDEX WEBMASTER
 * YANDEX METRIKA
+* YANDEX VARIOQUB
 * YANDEX WORDSTAT
 * YANDEX TURBOPAGE
 * YANDEX FEEDS

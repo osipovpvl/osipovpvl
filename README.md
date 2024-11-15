@@ -21,7 +21,7 @@
 
 ### 📱 МОИ СОЦИАЛЬНЫЕ СЕТИ
 <p>
-   <a href="https://www.instagram.com/osipovtwelve">
+   <a href="https://www.instagram.com/osipovpvl">
       <img src="https://skillicons.dev/icons?i=instagram" />
    </a>
 </p>

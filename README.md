@@ -21,7 +21,7 @@
 
 ### 📱 МОИ СОЦИАЛЬНЫЕ СЕТИ
 <p>
-   <a href="https://www.instagram.com/osipovtwelve">
+   <a href="https://www.instagram.com/osipovpvl">
       <img src="https://skillicons.dev/icons?i=instagram" />
    </a>
 </p>
@@ -60,6 +60,7 @@
 * TILDA
 * MODX REVOLUTION
 * JOOMLA
+* OPEN CART
 * И ДРУГИЕ
 
 ОСНОВНЫЕ ХОСТИНГИ В КОТОРЫХ РАБОТАЛ:
@@ -85,6 +86,7 @@
 * GOOGLE DISAVOW
 * GOOGLE BUSINESS
 * GOOGLE MERCHANT CENTER
+* LOCAL SEO
 * TOP VISOR
 * ETXT.RU
 * TEXT.RU
@@ -92,6 +94,7 @@
 * MIRA TEXT
 * AHREFS
 * SEMRUSH
+* MAJESTIC
 * CHECK TRUST
 * GO GET LINKS
 * SAPE
@@ -99,13 +102,15 @@
 * XTOOL
 * MARKUP SCHEMA.ORG / JSON-LD / OPEN GRAPH
 * LABRIKA
-* SPY WORDS
 * KEYS.SO
 * BE1
 * MEGA INDEX
 * PIXEL TOOLS
 * ARSENKIN TOOLS
+* PR-CY
+* RUSH ANALYTICS
 * YANDEX GPT
+* GEMINI
 * CHAT GPT
 * MIND MEISTER
 * WEB ARCHIVE
@@ -124,7 +129,7 @@
 * KEY COLLECTOR
 * FILE ZILLA
 * ANY DESK
-* MICROSOFT POWER POINT / WORD / EXCEL
+* MICROSOFT POWER POINT / WORD / SEO EXCEL
 * NOTEPAD++
 * FIGMA
 * ADOBE PHOTOSHOP / ILLUSTRATOR / ANIMATE / AFTER EFFECTS / PREMIERE PRO / AUDITION

@@ -62,10 +62,10 @@ REACT
 LARAVEL
 
 <img align="middle" src="https://skillicons.dev/icons?i=php" /><br>
-PHP
+* PHP
 
 <img align="middle" src="https://skillicons.dev/icons?i=mysql" /><br>
-SQL
+* SQL
 
 * И ДРУГИЕ
 </div>

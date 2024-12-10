@@ -22,54 +22,37 @@
 ### 📱 МОИ СОЦИАЛЬНЫЕ СЕТИ
 <p>
    <a href="https://www.instagram.com/osipovpvl">
-      <img align="middle" src="https://skillicons.dev/icons?i=instagram" /><br>
-      INSTAGRAM
+      <img align="middle" src="https://skillicons.dev/icons?i=instagram" /> INSTAGRAM
    </a>
 </p>
   
 ### 💻 РАЗРАБОТКА
 ОСНОВНЫЕ ЯЗЫКИ И ФРЕЙМВОРКИ, КОТОРЫЕ ПРИМЕНЯЮ В РАЗРАБОТКЕ:
-<div>
 
-<img align="middle" src="https://skillicons.dev/icons?i=html" /><br>
-* HTML
+<img align="middle" src="https://skillicons.dev/icons?i=html" /> HTML
 
-<img align="middle" src="https://skillicons.dev/icons?i=css" /><br>
-* CSS
+<img align="middle" src="https://skillicons.dev/icons?i=css" /> CSS
 
-<img align="middle" src="https://skillicons.dev/icons?i=less" /><br>
-* LESS
+<img align="middle" src="https://skillicons.dev/icons?i=less" /> LESS
 
-<img align="middle" src="https://skillicons.dev/icons?i=sass" /><br>
-* SASS
+<img align="middle" src="https://skillicons.dev/icons?i=sass" /> SASS
 
-<img align="middle" src="https://skillicons.dev/icons?i=jquery" /><br>
-* JQUERY
+<img align="middle" src="https://skillicons.dev/icons?i=jquery" /> JQUERY
 
-<img align="middle" src="https://skillicons.dev/icons?i=git" /><br>
-* GIT
+<img align="middle" src="https://skillicons.dev/icons?i=git" /> GIT
 
-<img align="middle" src="https://skillicons.dev/icons?i=js" /><br>
-* JAVA SCRIPT
+<img align="middle" src="https://skillicons.dev/icons?i=js" /> JAVA SCRIPT
 
-<img align="middle" src="https://skillicons.dev/icons?i=typescript" /><br>
-* TYPE SCRIPT
+<img align="middle" src="https://skillicons.dev/icons?i=typescript" /> TYPE SCRIPT
 
-<img align="middle" src="https://skillicons.dev/icons?i=react" /><br>
-* REACT
+<img align="middle" src="https://skillicons.dev/icons?i=react" /> REACT
 
-<img align="middle" src="https://skillicons.dev/icons?i=laravel" /><br>
-* LARAVEL
+<img align="middle" src="https://skillicons.dev/icons?i=laravel" /> LARAVEL
 
-<img align="middle" src="https://skillicons.dev/icons?i=php" /><br>
-* PHP
+<img align="middle" src="https://skillicons.dev/icons?i=php" /> PHP
 
-<img align="middle" src="https://skillicons.dev/icons?i=mysql" /><br>
-* SQL
-
+<img align="middle" src="https://skillicons.dev/icons?i=mysql" /> SQL
 * И ДРУГИЕ
-</div>
-
 
 ОСНОВНЫЕ CMS И WYSI/WYG В КОТОРЫХ РАБОТАЛ:
 * 1C-BITRIX

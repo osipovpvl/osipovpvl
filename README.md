@@ -22,16 +22,18 @@
 ### 📱 МОИ СОЦИАЛЬНЫЕ СЕТИ
 <p>
    <a href="https://www.instagram.com/osipovpvl">
-      <img align="middle" src="https://skillicons.dev/icons?i=instagram" />&nbspv;INSTAGRAM
+      <img align="middle" src="https://skillicons.dev/icons?i=instagram" /> INSTAGRAM
    </a>
 </p>
   
 ### 💻 РАЗРАБОТКА
 ОСНОВНЫЕ ЯЗЫКИ И ФРЕЙМВОРКИ, КОТОРЫЕ ПРИМЕНЯЮ В РАЗРАБОТКЕ:
 
-<img align="middle" src="https://skillicons.dev/icons?i=html" /> HTML
+<img align="middle" src="https://skillicons.dev/icons?i=html" />
+HTML
 
-<img align="middle" src="https://skillicons.dev/icons?i=css" /> CSS
+<img align="middle" src="https://skillicons.dev/icons?i=css" />
+CSS
 
 <img align="middle" src="https://skillicons.dev/icons?i=less" /> LESS
 

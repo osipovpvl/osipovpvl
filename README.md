@@ -22,47 +22,48 @@
 ### 📱 МОИ СОЦИАЛЬНЫЕ СЕТИ
 <p>
    <a href="https://www.instagram.com/osipovpvl">
-      <img align="middle" src="https://skillicons.dev/icons?i=instagram" /> INSTAGRAM
+      <img align="middle" src="https://skillicons.dev/icons?i=instagram" /><br>
+      INSTAGRAM
    </a>
 </p>
   
 ### 💻 РАЗРАБОТКА
 ОСНОВНЫЕ ЯЗЫКИ И ФРЕЙМВОРКИ, КОТОРЫЕ ПРИМЕНЯЮ В РАЗРАБОТКЕ:
 <div>
-<img align="middle" src="https://skillicons.dev/icons?i=html" />
+<img align="middle" src="https://skillicons.dev/icons?i=html" /><br>
 HTML
 
-<img align="middle" src="https://skillicons.dev/icons?i=css" />
+<img align="middle" src="https://skillicons.dev/icons?i=css" /><br>
 CSS
 
-<img align="middle" src="https://skillicons.dev/icons?i=less" />
+<img align="middle" src="https://skillicons.dev/icons?i=less" /><br>
 LESS
 
-<img align="middle" src="https://skillicons.dev/icons?i=sass" />
+<img align="middle" src="https://skillicons.dev/icons?i=sass" /><br>
 SASS
 
-<img align="middle" src="https://skillicons.dev/icons?i=jquery" />
+<img align="middle" src="https://skillicons.dev/icons?i=jquery" /><br>
 JQUERY
 
-<img align="middle" src="https://skillicons.dev/icons?i=git" />
+<img align="middle" src="https://skillicons.dev/icons?i=git" /><br>
 GIT
 
-<img align="middle" src="https://skillicons.dev/icons?i=js" />
+<img align="middle" src="https://skillicons.dev/icons?i=js" /><br>
 JAVA SCRIPT
 
-<img align="middle" src="https://skillicons.dev/icons?i=typescript" />
+<img align="middle" src="https://skillicons.dev/icons?i=typescript" /><br>
 TYPE SCRIPT
 
-<img align="middle" src="https://skillicons.dev/icons?i=react" />
+<img align="middle" src="https://skillicons.dev/icons?i=react" /><br>
 REACT
 
-<img align="middle" src="https://skillicons.dev/icons?i=laravel" />
+<img align="middle" src="https://skillicons.dev/icons?i=laravel" /><br>
 LARAVEL
 
-<img align="middle" src="https://skillicons.dev/icons?i=php" />
+<img align="middle" src="https://skillicons.dev/icons?i=php" /><br>
 PHP
 
-<img align="middle" src="https://skillicons.dev/icons?i=mysql" />
+<img align="middle" src="https://skillicons.dev/icons?i=mysql" /><br>
 SQL
 </div>
 * И ДРУГИЕ

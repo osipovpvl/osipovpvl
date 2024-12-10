@@ -33,6 +33,7 @@
 <img align="middle" src="https://skillicons.dev/icons?i=html" /><br>
 HTML
 
+
 <img align="middle" src="https://skillicons.dev/icons?i=css" /><br>
 CSS
 
@@ -66,7 +67,8 @@ PHP
 <img align="middle" src="https://skillicons.dev/icons?i=mysql" /><br>
 SQL
 </div>
-* И ДРУГИЕ<br>
+* И ДРУГИЕ
+
 
 ОСНОВНЫЕ CMS И WYSI/WYG В КОТОРЫХ РАБОТАЛ:
 * 1C-BITRIX

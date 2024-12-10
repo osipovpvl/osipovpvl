@@ -28,8 +28,8 @@
   
 ### 💻 РАЗРАБОТКА
 ОСНОВНЫЕ ЯЗЫКИ И ФРЕЙМВОРКИ, КОТОРЫЕ ПРИМЕНЯЮ В РАЗРАБОТКЕ:
-
-<img src="https://skillicons.dev/icons?i=html" />
+<div>
+<img align="middle" src="https://skillicons.dev/icons?i=html" />
 HTML
 
 <img align="middle" src="https://skillicons.dev/icons?i=css" />
@@ -54,6 +54,7 @@ CSS
 <img align="middle" src="https://skillicons.dev/icons?i=php" /> PHP
 
 <img align="middle" src="https://skillicons.dev/icons?i=mysql" /> SQL
+</div>
 * И ДРУГИЕ
 
 ОСНОВНЫЕ CMS И WYSI/WYG В КОТОРЫХ РАБОТАЛ:

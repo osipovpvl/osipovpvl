@@ -66,7 +66,7 @@ PHP
 <img align="middle" src="https://skillicons.dev/icons?i=mysql" /><br>
 SQL
 </div>
-* И ДРУГИЕ
+* И ДРУГИЕ<br>
 
 ОСНОВНЫЕ CMS И WYSI/WYG В КОТОРЫХ РАБОТАЛ:
 * 1C-BITRIX

@@ -22,10 +22,9 @@
 ### 📱 МОИ СОЦИАЛЬНЫЕ СЕТИ
 <p>
    <a href="https://www.instagram.com/osipovpvl">
-      <img align="middle"  src="https://skillicons.dev/icons?i=instagram" />
+      <img align="middle"  src="https://skillicons.dev/icons?i=instagram" />INSTAGRAM
    </a>
 </p>
-<a href="https://www.instagram.com/osipovpvl">INSTAGRAM</a>
   
 ### 💻 РАЗРАБОТКА
 ОСНОВНЫЕ ЯЗЫКИ И ФРЕЙМВОРКИ, КОТОРЫЕ ПРИМЕНЯЮ В РАЗРАБОТКЕ:

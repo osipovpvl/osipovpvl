@@ -22,7 +22,7 @@
 ### 📱 МОИ СОЦИАЛЬНЫЕ СЕТИ
 <p>
    <a href="https://www.instagram.com/osipovpvl">
-      <img src="https://skillicons.dev/icons?i=instagram" /> INSTAGRAM
+      <img align="middle"  src="https://skillicons.dev/icons?i=instagram" /> INSTAGRAM
    </a>
 </p>
   

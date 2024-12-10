@@ -66,8 +66,9 @@ PHP
 
 <img align="middle" src="https://skillicons.dev/icons?i=mysql" /><br>
 SQL
-</div>
+
 * И ДРУГИЕ
+</div>
 
 
 ОСНОВНЫЕ CMS И WYSI/WYG В КОТОРЫХ РАБОТАЛ:

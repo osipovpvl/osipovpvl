@@ -32,34 +32,34 @@
 <div>
 
 <img align="middle" src="https://skillicons.dev/icons?i=html" /><br>
-HTML
+* HTML
 
 <img align="middle" src="https://skillicons.dev/icons?i=css" /><br>
-CSS
+* CSS
 
 <img align="middle" src="https://skillicons.dev/icons?i=less" /><br>
-LESS
+* LESS
 
 <img align="middle" src="https://skillicons.dev/icons?i=sass" /><br>
-SASS
+* SASS
 
 <img align="middle" src="https://skillicons.dev/icons?i=jquery" /><br>
-JQUERY
+* JQUERY
 
 <img align="middle" src="https://skillicons.dev/icons?i=git" /><br>
-GIT
+* GIT
 
 <img align="middle" src="https://skillicons.dev/icons?i=js" /><br>
-JAVA SCRIPT
+* JAVA SCRIPT
 
 <img align="middle" src="https://skillicons.dev/icons?i=typescript" /><br>
-TYPE SCRIPT
+* TYPE SCRIPT
 
 <img align="middle" src="https://skillicons.dev/icons?i=react" /><br>
-REACT
+* REACT
 
 <img align="middle" src="https://skillicons.dev/icons?i=laravel" /><br>
-LARAVEL
+* LARAVEL
 
 <img align="middle" src="https://skillicons.dev/icons?i=php" /><br>
 * PHP

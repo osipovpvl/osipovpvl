@@ -3,7 +3,7 @@
 ### 📑 МОИ СЕРТИФИКАТЫ
 <p>
    <a href="https://github.com/osipovtwelve/osipovtwelve/tree/master/Certificates">
-      СЕРТИФИКАТЫ
+      НАГРАДЫ
    </a>
 </p>
 

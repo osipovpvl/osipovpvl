@@ -28,6 +28,7 @@
   
 ### 💻 РАЗРАБОТКА
 ОСНОВНЫЕ ЯЗЫКИ И ФРЕЙМВОРКИ, КОТОРЫЕ ПРИМЕНЯЮ В РАЗРАБОТКЕ:
+
 <img align="center" src="https://skillicons.dev/icons?i=html" /> HTML
 
 <img align="center" src="https://skillicons.dev/icons?i=css" /> CSS

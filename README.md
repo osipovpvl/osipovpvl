@@ -28,7 +28,6 @@
   
 ### 💻 РАЗРАБОТКА
 ОСНОВНЫЕ ЯЗЫКИ И ФРЕЙМВОРКИ, КОТОРЫЕ ПРИМЕНЯЮ В РАЗРАБОТКЕ:
-
 <img align="center" src="https://skillicons.dev/icons?i=html" /> HTML
 
 <img align="center" src="https://skillicons.dev/icons?i=css" /> CSS
@@ -81,12 +80,15 @@
 * YANDEX INDEX NOW
 * GOOGLE SEARCH CONSOLE
 * GOOGLE ANALYTICS
-* GOOGLE CLOUD CONSOLE (GOOGLE INDEXING API)
+* GOOGLE CLOUD PLATFORM
+* GOOGLE INDEXING API
 * GOOGLE TRENDS
 * GOOGLE DISAVOW
 * GOOGLE BUSINESS
 * GOOGLE MERCHANT CENTER
 * GOOGLE PAGE SPEED INSIGHTS / LIGHT HOUSE
+* GOOGLE RICH RESULT TEST
+* W3C MARKUP VALIDATION SERVICE
 * LOCAL SEO
 * TOP VISOR
 * ETXT.RU
@@ -101,7 +103,8 @@
 * SAPE
 * MIRA LINKS
 * XTOOL
-* MARKUP SCHEMA.ORG / JSON-LD / OPEN GRAPH
+* SCHEMA.ORG JSON-LD / MICRODATA / RDFA
+* OPEN GRAPH
 * .HTACCESS
 * LABRIKA
 * KEYS.SO
@@ -122,6 +125,7 @@
 * ALAEV TOOLS
 * RDS BAR
 * И ДРУГИЕ
+
 ### 🖱 ПРОГРАММЫ
 ОСНОВНЫЕ ПРОГРАММЫ, КОТОРЫЕ ИСПОЛЬЗУЮ В РАБОТЕ:
 * VISUAL STUDIO CODE

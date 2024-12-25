@@ -54,7 +54,7 @@
 <img align="center" src="https://skillicons.dev/icons?i=mysql" /> SQL
 * И ДРУГИЕ
 
-ОСНОВНЫЕ CMS И WYSI/WYG В КОТОРЫХ РАБОТАЛ:
+ОСНОВНЫЕ CMS И WYSI / WYG В КОТОРЫХ РАБОТАЛ:
 * 1C-BITRIX
 * WORD PRESS
 * TILDA

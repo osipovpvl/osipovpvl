@@ -54,7 +54,7 @@
 <img align="center" src="https://skillicons.dev/icons?i=mysql" /> SQL
 * И ДРУГИЕ
 
-ОСНОВНЫЕ CMS И WYSI / WYG В КОТОРЫХ РАБОТАЛ:
+ОСНОВНЫЕ CMS / WYSI / WYG В КОТОРЫХ РАБОТАЛ:
 * 1C-BITRIX
 * WORD PRESS
 * TILDA
@@ -67,6 +67,7 @@
 * NET ANGELS
 * BEGET
 * TIME WEB
+* REG
 * И ДРУГИЕ
 
 ### 📈 ПРОДВИЖЕНИЕ И ОПТИМИЗАЦИЯ
@@ -122,9 +123,7 @@
 * WAYBACK MACHINE
 * I LOVE ADAPTIVE
 * SEO REPORTS
-* WORD STATER
-* ALAEV TOOLS
-* RDS BAR
+* MATRYOSHKA TOOLS
 * И ДРУГИЕ
 
 ### 🖱 ПРОГРАММЫ

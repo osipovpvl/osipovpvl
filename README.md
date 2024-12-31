@@ -18,10 +18,3 @@
       КЕЙСЫ ПО ПРОДВИЖЕНИЮ И ОПТИМИЗАЦИИ
    </a>
 </p>
-
-### 📱 МОИ СОЦИАЛЬНЫЕ СЕТИ
-<p>
-   <a href="https://www.instagram.com/osipovpvl">
-      <img align="center" src="https://skillicons.dev/icons?i=instagram" /></a>
-   <a href="https://www.instagram.com/osipovpvl">INSTAGRAM</a>
-</p>

@@ -1,5 +1,5 @@
-ОБРАЗОВАНИЕ «РАЗРАБОТЧИК WEB И МУЛЬТИМЕДИЙНЫХ ПРИЛОЖЕНИЙ».
-РАЗРАБОТЧИК ИНСТРУМЕНТА MATRYOSHKA TOOLS..
+ОБРАЗОВАНИЕ «РАЗРАБОТЧИК WEB И МУЛЬТИМЕДИЙНЫХ ПРИЛОЖЕНИЙ».<br>
+РАЗРАБОТЧИК ИНСТРУМЕНТА MATRYOSHKA TOOLS.
 
 ### 📑 МОИ СЕРТИФИКАТЫ И НАГРАДЫ
 <p>

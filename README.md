@@ -1,9 +1,10 @@
 ОБРАЗОВАНИЕ «РАЗРАБОТЧИК WEB И МУЛЬТИМЕДИЙНЫХ ПРИЛОЖЕНИЙ».
+РАЗРАБОТЧИК ИНСТРУМЕНТА MATRYOSHKA TOOLS..
 
-### 📑 МОИ НАГРАДЫ
+### 📑 МОИ СЕРТИФИКАТЫ И НАГРАДЫ
 <p>
    <a href="https://github.com/osipovtwelve/osipovtwelve/tree/master/Certificates">
-      НАГРАДЫ
+      СЕРТИФИКАТЫ И НАГРАДЫ
    </a>
 </p>
 

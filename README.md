@@ -1,10 +1,11 @@
 ОБРАЗОВАНИЕ «РАЗРАБОТЧИК WEB И МУЛЬТИМЕДИЙНЫХ ПРИЛОЖЕНИЙ».<br>
-РАЗРАБОТЧИК БРАУЗЕРНОГО РАСШИРЕНИЯ «MATRYOSHKA TOOLS».
 
-### 📑 МОИ СЕРТИФИКАТЫ И НАГРАДЫ
+РАЗРАБОТЧИК БРАУЗЕРНОГО РАСШИРЕНИЯ «[MATRYOSHKA TOOLS](https://github.com/apps/matryoshka-tools)».
+
+### 📑 МОИ СЕРТИФИКАТЫ
 <p>
    <a href="https://github.com/osipovtwelve/osipovtwelve/tree/master/Certificates">
-      СЕРТИФИКАТЫ И НАГРАДЫ
+      СЕРТИФИКАТЫ
    </a>
 </p>
 

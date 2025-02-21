@@ -1,6 +1,6 @@
 ОБРАЗОВАНИЕ «РАЗРАБОТЧИК WEB И МУЛЬТИМЕДИЙНЫХ ПРИЛОЖЕНИЙ».<br>
 
-ОСНОВАТЕЛЬ СЕРВИСА ДЛЯ АНАЛИЗА И ПРОДВИЖЕНИЯ САЙТОВ «[WEB REVISOR](https://webrevisor.ru/)».<br>
+ОСНОВАТЕЛЬ СЕРВИСА ДЛЯ АНАЛИЗА И ПРОДВИЖЕНИЯ САЙТОВ «[WEB REVISOR](https://webrevisor.com/)».<br>
 РАЗРАБОТЧИК БРАУЗЕРНОГО РАСШИРЕНИЯ «[MATRYOSHKA TOOLS](https://github.com/apps/matryoshka-tools)».
 
 ### 📑 МОИ СЕРТИФИКАТЫ
